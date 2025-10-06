@@ -294,7 +294,7 @@ function generatePrediction() {
 }
 
 function openWhatsApp() {
-    window.open('https://whatsapp.com/channel/0029VavHzv259PwTIz1XxJ09', '_blank');
+    window.open('https://whatsapp.com/channel/0029Vb6jjvCInlqMma3DmH3c');
 }
 
 // Initialize the app when DOM is loaded
